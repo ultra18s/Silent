@@ -6,7 +6,7 @@ getgenv().fov_settings = {
     old_mouse = {} -- dont change
 }
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/LeadMarker/opensrc/main/Hood%20Games/lock.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ultra18s/silent2/main/shh'))()
 
 
 
