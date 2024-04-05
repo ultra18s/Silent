@@ -1,0 +1,13 @@
+getgenv().prediction = 0.135 -- changeable
+getgenv().fov_settings = {
+    radius = 150, -- changeable
+    points = 100, -- changeable
+    drawings = {}, -- dont change
+    old_mouse = {} -- dont change
+}
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LeadMarker/opensrc/main/Hood%20Games/lock.lua'))()
+
+-
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua",true))()
